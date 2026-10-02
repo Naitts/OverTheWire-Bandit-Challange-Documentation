@@ -4,11 +4,7 @@ Catatan belajar saya setelah menyelesaikan wargame **OverTheWire Bandit** dari L
 
 > **Catatan penting:** password dan jawaban akhir setiap level **sengaja tidak dicantumkan**. OverTheWire meminta peserta tidak menyebarkan solusi agar orang lain tetap bisa merasakan proses belajarnya. Fokus catatan ini adalah konsep, tools, dan pelajaran yang didapat.
 
-## Dokumentasi Video
-
-Seluruh proses pengerjaan saya rekam dalam bentuk live stream:
-
-- YouTube: https://www.youtube.com/live/GLiz1WRN_Bc
+## Dokumentasi video tidak tersedia karena dilakukan secara live maka video disimpan sebagai arsip pribadi saja.
 
 ## Isi Repository
 
@@ -42,10 +38,10 @@ Level berikutnya diakses dengan user `bandit1`, `bandit2`, dan seterusnya, memak
 ## Referensi
 
 - Situs resmi: https://overthewire.org/wargames/bandit/
-- Tutorial pembanding yang membantu saya: david-varghese.medium.com
+- Tutorial yang membantu saya: david-varghese.medium.com
 
 ## Penulis
 
 Yohanes Christian Wibowo
 Network Engineering, Cyber Security, System Analyst, dan Project Manager
-LinkedIn: [isi dengan link profil LinkedIn kamu]
+LinkedIn: linkedin.com/in/yohanescw
